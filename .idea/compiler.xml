@@ -6,8 +6,14 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="factory" />
+        <module name="product" />
+        <module name="proxy" />
         <module name="stategy" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="proxy1" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>

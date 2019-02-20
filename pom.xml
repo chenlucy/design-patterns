@@ -10,6 +10,10 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>stategy</module>
+        <module>stategy</module>
+        <module>product</module>
+        <module>decorator</module>
+        <module>proxy</module>
     </modules>
 
 
