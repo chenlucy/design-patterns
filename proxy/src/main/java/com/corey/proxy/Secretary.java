@@ -11,7 +11,7 @@ import java.util.List;
  */
 public class Secretary implements Subject{
 
-    private List<Proxy>list=new ArrayList<>();
+    private List<Proxy>list=new ArrayList<Proxy>();
 
     private String active;
 

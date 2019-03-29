@@ -2,78 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6c07118-f9b1-4844-b9bf-87e19de62250" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/Clothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/cloth/Shirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/cloth/Shoes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/cloth/Sneakers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/cloth/Sweater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/cloth/Trousers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/cloth/Tshirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/pancake/Condiment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/pancake/FireEgg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/pancake/Ham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/pancake/Pancake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/pancake/Roujiamo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/pancake/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/pancake/Tomcake.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/src/main/java/com/corey/factory/CountFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/src/main/java/com/corey/factory/Creator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/factory/src/main/java/com/corey/factory/DelPerate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/person/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/person/IBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/person/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/person/SmartPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/person/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/product/Builder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/product/ConcreteBuilder1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/product/ConcreteBuilder2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/product/Director.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/product/src/main/java/com/corey/product/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Boss.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Colleague.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Secretary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CashFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CashNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CashRebate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CashReturn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CashSuper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/Context.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CountMoney.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/ConcreteObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/ConcreteSubject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/stategy/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/java/com/corey/stategy/AddOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/com/corey/factory/AddOperate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/java/com/corey/stategy/ChengOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/com/corey/factory/ChengOperate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/java/com/corey/stategy/CountFactory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/java/com/corey/stategy/DelPerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/ActiveType.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/java/com/corey/stategy/Operate.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/com/corey/factory/Operate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/java/com/corey/stategy/SubOperate.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/com/corey/factory/SubOperate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/java/com/corey/stategy/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/java/com/corey/factory/TestMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/factory/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/target/classes/com/corey/stategy/AddOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/target/classes/com/corey/stategy/ChengOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/target/classes/com/corey/stategy/CountFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/target/classes/com/corey/stategy/DelPerate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/target/classes/com/corey/stategy/Operate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/target/classes/com/corey/stategy/SubOperate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stategy/target/classes/com/corey/stategy/TestMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Secretary.java" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Secretary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/TestMain.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/stategy/target/" />
@@ -88,22 +25,20 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="design-patterns" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Colleague.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="385">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Proxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            <state relative-caret-position="276">
+              <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+              <folding>
+                <element signature="e#311#312#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -111,8 +46,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Boss.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="230">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="method#notified#0;class#Boss#0" />
               </folding>
@@ -121,10 +56,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Subject.java">
+        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Subject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+            <state relative-caret-position="483">
+              <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -132,8 +72,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Secretary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+            <state relative-caret-position="391">
+              <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,23 +82,49 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Observer.java">
+        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+            <state relative-caret-position="145">
+              <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="41" selection-end-column="30" />
               <folding>
-                <element signature="e#318#319#0" expanded="true" />
-                <element signature="e#419#420#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/TestMain.java">
+        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/ConcreteSubject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+            <state relative-caret-position="184">
+              <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/ConcreteObserver.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Observer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="11" selection-start-line="11" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Subject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -168,8 +134,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -179,11 +145,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/product/src/main/java/com/corey/product/Builder.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/corey/product/ConcreteBuilder1.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/corey/product/ConcreteBuilder2.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/corey/product/TestMain.java" />
-        <option value="$PROJECT_DIR$/product/src/main/java/com/corey/product/Director.java" />
         <option value="$PROJECT_DIR$/product/src/main/java/com/corey/person/Builder.java" />
         <option value="$PROJECT_DIR$/product/src/main/java/com/corey/person/Person.java" />
         <option value="$PROJECT_DIR$/product/src/main/java/com/corey/person/Director.java" />
@@ -224,12 +185,17 @@
         <option value="$PROJECT_DIR$/proxy/src/main/java/Secretary.java" />
         <option value="$PROJECT_DIR$/proxy/src/main/java/TestMain.java" />
         <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Subject.java" />
-        <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Secretary.java" />
         <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Boss.java" />
         <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Proxy.java" />
         <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Colleague.java" />
         <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Observer.java" />
         <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/TestMain.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Observer.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/ConcreteObserver.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/ConcreteSubject.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Secretary.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Subject.java" />
+        <option value="$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Test.java" />
       </list>
     </option>
   </component>
@@ -247,10 +213,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-11" />
-    <option name="width" value="980" />
-    <option name="height" value="1031" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-6" />
+    <option name="width" value="1860" />
+    <option name="height" value="1032" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -259,6 +225,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -301,18 +268,27 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="design-patterns" type="b2602c69:ProjectViewProjectNode" />
+              <item name="design-patterns" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
+              <item name="subject" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550646731856" />
-    <property name="last_opened_file_path" value="C:/MinstoneProjects/SafeCampus" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551004294282" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -329,6 +305,7 @@
       <recent name="C:\woekfile\Projects\designpatterns\stategy\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.corey.proxy.subject" />
       <recent name="com.corey.proxy" />
       <recent name="com.corey.product" />
       <recent name="com.corey.stategy" />
@@ -350,13 +327,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestMain">
-    <configuration name="TestMain (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.corey.person.TestMain" />
-      <module name="product" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.corey.proxy.subject.Test" />
+      <module name="proxy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.corey.person.*" />
+          <option name="PATTERN" value="com.corey.proxy.subject.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -472,11 +449,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.TestMain" />
         <item itemvalue="Application.TestMain (5)" />
         <item itemvalue="Application.TestMain (4)" />
         <item itemvalue="Application.TestMain (3)" />
-        <item itemvalue="Application.TestMain (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -493,27 +470,31 @@
       <workItem from="1550212261434" duration="880000" />
       <workItem from="1550222297948" duration="3141000" />
       <workItem from="1550286134802" duration="14345000" />
-      <workItem from="1550389997675" duration="28786000" />
+      <workItem from="1550389997675" duration="33430000" />
+      <workItem from="1550712636526" duration="1525000" />
+      <workItem from="1550729418715" duration="1081000" />
+      <workItem from="1550989958645" duration="1240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47152000" />
+    <option name="totallyTimeSpent" value="55642000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="653" height="687" extended-state="0" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.49243698" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49761903" visible="true" weight="0.17946646" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Favorites" order="6" sideWeight="0.50238097" side_tool="true" weight="0.17946646" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.43516874" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.25399646" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39786857" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -535,113 +516,13 @@
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="PlantUML" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/corey/product/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/corey/person/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Override.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="529">
-          <caret line="46" column="13" lean-forward="true" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/corey/person/SmartPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="27" lean-forward="true" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
-          <folding>
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#245#246#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#486#487#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/corey/person/IBuilder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CashNormal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="e#215#216#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CashSuper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/product/src/main/java/com/corey/person/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-          <folding>
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#395#396#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
-            <element signature="e#525#526#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#597#598#0" expanded="true" />
-            <element signature="e#628#629#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-            <element signature="e#727#728#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#785#786#0" expanded="true" />
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#857#858#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/CashFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="23" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stategy/src/main/java/com.corey.stategy/ActiveType.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -675,16 +556,8 @@
         <state relative-caret-position="-414" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/Creator.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/clothe.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/Creator.java" />
+    <entry file="file://$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/clothe.java" />
     <entry file="file://$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/cloth/Sweater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
@@ -838,9 +711,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proxy1/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy1/pom.xml" />
     <entry file="file://$PROJECT_DIR$/decorator/src/main/java/com/corey/decorator/cloth/Trousers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
@@ -848,134 +719,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/Secretary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-            <element signature="e#392#393#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#471#472#0" expanded="true" />
-            <element signature="e#438#439#0" expanded="true" />
-            <element signature="e#467#468#0" expanded="true" />
-            <element signature="e#511#512#0" expanded="true" />
-            <element signature="e#547#548#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/Colleague.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#357#358#0" expanded="true" />
-            <element signature="e#393#394#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/Observer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="85" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-          <folding>
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#415#416#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-          <folding>
-            <element signature="e#237#238#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-            <element signature="e#375#376#0" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#460#461#0" expanded="true" />
-            <element signature="e#502#503#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/target/classes/TestMain.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-138">
-          <folding>
-            <element signature="e#0#507#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/TestMain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/Secretary.java" />
+    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/Colleague.java" />
+    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/Observer.java" />
+    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/Proxy.java" />
+    <entry file="file://$PROJECT_DIR$/proxy/target/classes/TestMain.class" />
+    <entry file="file://$PROJECT_DIR$/proxy1/src/main/java/TestMain.java" />
     <entry file="file://$PROJECT_DIR$/proxy/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy.java" />
     <entry file="file://$PROJECT_DIR$/product/src/main/java/com/corey/person/Director.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-23">
           <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Subject.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="34" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Secretary.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Boss.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="method#notified#0;class#Boss#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Proxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Colleague.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -989,12 +746,13 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="-172.5" y="-0.5" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-172.0" y="0.0" />
           <SelectedNodes />
           <Categories>
-            <Category>Test dependencies</Category>
             <Category>Libraries</Category>
+            <Category>Test dependencies</Category>
           </Categories>
+          <SCOPE>All</SCOPE>
         </state>
       </provider>
     </entry>
@@ -1018,8 +776,37 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/TestMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        <state relative-caret-position="-154">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.corey.proxy.Boss">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.corey.proxy.Boss</OriginalElement>
+          <nodes>
+            <node x="" y="">com.corey.proxy.Subject</node>
+            <node x="" y="">com.corey.proxy.Proxy</node>
+            <node x="" y="">com.corey.proxy.Colleague</node>
+            <node x="" y="">com.corey.proxy.Secretary</node>
+            <node x="" y="">com.corey.proxy.Boss</node>
+            <node x="" y="">com.corey.proxy.TestMain</node>
+            <node x="" y="">com.corey.proxy.Observer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.3000000000000003" x="343.0" y="448.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+            <Category>Properties</Category>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
         </state>
       </provider>
     </entry>
@@ -1034,7 +821,7 @@
           </nodes>
           <notes />
           <edges />
-          <settings layout="Hierarchic Group" zoom="0.9" x="57.60568924539518" y="103.68538324420683" />
+          <settings layout="Hierarchic Group" zoom="1.0" x="50.0" y="55.0" />
           <SelectedNodes />
           <Categories />
           <SCOPE>All</SCOPE>
@@ -1044,11 +831,141 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        <state relative-caret-position="145">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="e#318#319#0" expanded="true" />
             <element signature="e#419#420#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.corey.proxy">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.corey.proxy</OriginalElement>
+          <nodes>
+            <node x="" y="">com.corey.proxy.Subject</node>
+            <node x="" y="">com.corey.proxy.Proxy</node>
+            <node x="" y="">com.corey.proxy.Colleague</node>
+            <node x="" y="">com.corey.proxy.Secretary</node>
+            <node x="" y="">com.corey.proxy.Boss</node>
+            <node x="" y="">com.corey.proxy.TestMain</node>
+            <node x="" y="">com.corey.proxy.Observer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="170.0" y="133.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.7.0_80/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="271" column="29" selection-start-line="271" selection-start-column="29" selection-end-line="271" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.49/fastjson-1.2.49.jar!/com/alibaba/fastjson/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="219" column="21" selection-start-line="219" selection-start-column="21" selection-end-line="219" selection-end-column="21" />
+          <folding>
+            <element signature="e#1042#1043#0" expanded="true" />
+            <element signature="e#1085#1086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Colleague.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
+          <folding>
+            <element signature="e#311#312#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Boss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="method#notified#0;class#Boss#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Secretary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/ConcreteSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/ConcreteObserver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="67" selection-start-line="13" selection-start-column="67" selection-end-line="13" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Observer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="11" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/proxy/src/main/java/com/corey/proxy/subject/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="39" column="6" lean-forward="true" selection-start-line="39" selection-start-column="6" selection-end-line="41" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

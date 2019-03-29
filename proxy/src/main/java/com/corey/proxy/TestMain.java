@@ -18,7 +18,7 @@ public class TestMain {
 //        secretary.notified();
 
 
-        Secretary boss = new Secretary();
+        Subject boss = new Secretary();
         Colleague c1=new Colleague("黄同事",boss);
         Observer c2=new Observer("赵同事",boss);
         boss.add(c1);
